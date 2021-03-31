@@ -1,6 +1,7 @@
-//Write the program to print "Hello World !"
 #include<stdio.h>
-Void main()
+int main()
 {
-  printf(“Aman kumar”);
+    printf("HELLO WORLD\n");
+    printf("AMAN KUMAR");
+    return(0);
 }
