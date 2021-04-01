@@ -23,19 +23,19 @@ float xone()
 	scanf("%f", &x1);
 	return x1;
 }
-float xtwo()
-{
-    	float x2;
-    	printf("Input x2  ");
-    	scanf("%f", &x2);
-	return x2;
-}
 float yone()
 {
     	float y1;
    	 printf("Input y1  ");
 	scanf("%f", &y1);
     	return y1;
+}
+float xtwo()
+{
+    	float x2;
+    	printf("Input x2  ");
+    	scanf("%f", &x2);
+	return x2;
 }
 float ytwo()
 {
