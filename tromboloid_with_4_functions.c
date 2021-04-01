@@ -35,6 +35,6 @@ float breadth(float b)
 float volume (float h,float d,float b)
 {
     float v;
-    v=((h*d*b)+(d/b)/3);
+    v=(h*d*b)+(d/b))/3;
     return v;
 }
