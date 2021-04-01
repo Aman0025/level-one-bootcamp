@@ -9,7 +9,7 @@ int main()
     scanf("%f",&b);
     printf("enter depth: ");
     scanf("%f",&d);
-    x=((h*b*d)+(d/b)*(1/3));
+    x=(h*d*b)+(d/b))/3;
     printf("volume of tromboloid is %f",x);
     return(0);
 }
